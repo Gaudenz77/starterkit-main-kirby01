@@ -1,0 +1,15 @@
+{
+  "name": "starterkit-main-kirby01",
+  "version": "1.0.0",
+  "description": "kirby-cms first try",
+  "main": "index.php",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./src/css/tailwind.css -o ./assets/css/styles.css --content './site/**/*.php' -w",
+    "build": "npx tailwindcss -i ./src/css/tailwind.css -o ./assets/css/styles.css --content './site/**/*.php' -m"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.12"
+  }
+}

@@ -38,6 +38,7 @@ body {
   padding: var(--padding);
   max-width: 70rem;
   margin: 0 auto;
+  background-color: red;;
 }
 li {
   list-style: none;
