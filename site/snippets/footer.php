@@ -30,6 +30,7 @@
       <div class="column" style="--columns: 2">
         <h2>Kirby</h2>
         <ul>
+          <li><i class="fa-solid fa-face-grin-wink fa-5x fa-spin"></i></li>
           <li><a href="https://getkirby.com">Website</a></li>
           <li><a href="https://getkirby.com/docs">Docs</a></li>
           <li><a href="https://forum.getkirby.com">Forum</a></li>

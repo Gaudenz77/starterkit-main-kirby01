@@ -47,6 +47,7 @@
     base URL of your site.
   */
   ?>
+  <script src="https://kit.fontawesome.com/d4cbcb96c8.js" crossorigin="anonymous"></script>
   <link rel="shortcut icon" type="image/x-icon" href="<?= url('favicon.ico') ?>">
 </head>
 <body>

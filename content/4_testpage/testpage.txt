@@ -8,6 +8,7 @@ Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image
 
 Address: Mægazine Inc. <br>Sesamestreet 1 <br>Gotham City <br>USA
 
+
 ----
 
 Email: mail@maegazine.com
