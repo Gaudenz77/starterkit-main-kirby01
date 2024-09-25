@@ -26,7 +26,7 @@
   <li class="column" style="--columns: 3">
     <a href="<?= $project->url() ?>">
       <figure>
-        <span class="img" style="--w:4;--h:5">
+        <span class="img" style="--w:5;--h:5">
           <?php if ($cover = $project->cover()): ?>
             <img src="<?= $cover->crop(400, 500)->url() ?>" alt="<?= $cover->alt()->esc() ?>">
           <?php endif ?>

@@ -206,7 +206,7 @@ class Field extends Component
 					if ($this->after !== null) {
 						return $this->model()->toString($this->after);
 					}
-				},
+				},	
 				'before' => function () {
 					/** @var \Kirby\Form\Field $this */
 					if ($this->before !== null) {
